@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✨ EGGSpander
+# 💪 EGGSpander
 
 **Ürün & Animasyon · Fitness Ürün Tanıtımı**
 
